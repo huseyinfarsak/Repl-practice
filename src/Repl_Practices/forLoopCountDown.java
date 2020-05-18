@@ -2,7 +2,7 @@ package Repl_Practices;
 
 public class forLoopCountDown {
     public static void main(String[] args) {
-
+        System.out.println();
 
 
         for (int i = 100 ; i>=0 ; i-- ){    // 100 den geri yazdirma

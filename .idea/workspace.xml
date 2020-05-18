@@ -1,7 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e944653d-3781-4318-aa45-fbe5052d4da5" name="Default Changelist" comment="" />
+    <list default="true" id="e944653d-3781-4318-aa45-fbe5052d4da5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/Interview_Questions/ConcatWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/Interview_Questions/String_MiddleCharacter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/Interview_Questions/String_Reverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/META-INF/Repl_it.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_Constructors/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_Constructors/CarObj.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_Constructors/InstanceBlock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_Constructors/dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_Constructors/dogObj.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_CustomClass/Employee_Sta_Obj.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_CustomClass/Employee_Static.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_CustomClass/Item_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_CustomClass/OfferObj.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_CustomClass/ShoppingList_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_CustomClass/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_CustomClass/StudentTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_CustomClass/Student_Sta_Obj.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_CustomClass/Student_Static.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_CustomClass/Talebe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_CustomClass/TalebeObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_CustomClass/carpet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_CustomClass/carpetTest_DecimalFor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_CustomClass/dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_CustomClass/dogObj.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_CustomClass/employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_CustomClass/employeeComp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Practice_CustomClass/offer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Pratice_Encapsulation/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Pratice_Encapsulation/PersonObj.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Pratice_Encapsulation/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/My_Pratice_Encapsulation/StudentObj.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/Repl_Practices/Accumulator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/Repl_Practices/Alejandro1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/Repl_Practices/Equals_Java_Python.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/Repl_Practices/GasTank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/Repl_Practices/Gas_tank_Obj.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/Repl_Practices/IfStatementBurger_Chicken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/Repl_Practices/Party_Loop_Scanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/Repl_Practices/Print_n_Times_Loop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/Repl_Practices/String_SMS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/Repl_Practices/WithoutX_x_075.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/Repl_Practices/forLoopCountDown.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/Repl_Practices/loopCalculate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/Repl_Practices/pizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Repl_it/Repl_Practices/print97.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview_Questions/ConcatWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview_Questions/String_MiddleCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview_Questions/String_Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_Constructors/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_Constructors/CarObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_Constructors/InstanceBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_Constructors/dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_Constructors/dogObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_CustomClass/Employee_Sta_Obj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_CustomClass/Employee_Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_CustomClass/Item_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_CustomClass/OfferObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_CustomClass/ShoppingList_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_CustomClass/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_CustomClass/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_CustomClass/Student_Sta_Obj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_CustomClass/Student_Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_CustomClass/Talebe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_CustomClass/TalebeObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_CustomClass/carpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_CustomClass/carpetTest_DecimalFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_CustomClass/dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_CustomClass/dogObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_CustomClass/employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_CustomClass/employeeComp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Practice_CustomClass/offer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Pratice_Encapsulation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Pratice_Encapsulation/PersonObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Pratice_Encapsulation/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/My_Pratice_Encapsulation/StudentObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repl_Practices/Accumulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repl_Practices/Alejandro1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repl_Practices/Equals_Java_Python.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repl_Practices/GasTank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repl_Practices/Gas_tank_Obj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repl_Practices/IfStatementBurger_Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repl_Practices/Party_Loop_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repl_Practices/Print_n_Times_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repl_Practices/String_SMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repl_Practices/WithoutX_x_075.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repl_Practices/loopCalculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repl_Practices/pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repl_Practices/print97.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Repl_it/Repl_Practices/MethodsWithArray_185.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Repl_it/Repl_Practices/MethodsWithArray_185.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repl_Practices/forLoopCountDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repl_Practices/forLoopCountDown.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +111,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1b3mWxS9FNwlINDY2Fz8joZ2Fe0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,14 +121,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="Application.MethodsWithArray_185">
-    <configuration name="MethodsWithArrayList_187" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Repl_Practices.MethodsWithArrayList_187" />
+    <configuration name="ConcatWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interview_Questions.ConcatWords" />
       <module name="Repl_it" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Repl_Practices.*" />
+          <option name="PATTERN" value="Interview_Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +153,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VideoGame_034" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Repl_Practices.VideoGame_034" />
+    <configuration name="String_MiddleCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interview_Questions.String_MiddleCharacter" />
       <module name="Repl_it" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Repl_Practices.*" />
+          <option name="PATTERN" value="Interview_Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interview_Questions.String_Reverse" />
+      <module name="Repl_it" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Interview_Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="My_Pratice_Encapsulation.StudentObj" />
+      <module name="Repl_it" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="My_Pratice_Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,8 +195,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.MethodsWithArray_185" />
-        <item itemvalue="Application.MethodsWithArrayList_187" />
-        <item itemvalue="Application.VideoGame_034" />
+        <item itemvalue="Application.String_Reverse" />
+        <item itemvalue="Application.String_MiddleCharacter" />
+        <item itemvalue="Application.ConcatWords" />
+        <item itemvalue="Application.StudentObj" />
       </list>
     </recent_temporary>
   </component>
@@ -90,21 +216,80 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1848" height="265" key="GridCell.Tab.0.bottom" timestamp="1588221286797">
+    <state x="760" y="143" key="#com.intellij.ide.util.MemberChooser" timestamp="1589578486410">
       <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="760" y="143" key="#com.intellij.ide.util.MemberChooser/1920.0.1280.693/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589578486410" />
+    <state x="-1375" y="42" key="CommitChangelistDialog2" timestamp="1589782078458">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1375" y="42" key="CommitChangelistDialog2/1920.0.1280.693/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1589782078458" />
+    <state x="-1225" y="171" key="FileChooserDialogImpl" timestamp="1588452871928">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1225" y="171" key="FileChooserDialogImpl/1920.0.1280.693/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1588452871928" />
+    <state width="1921" height="143" key="GridCell.Tab.0.bottom" timestamp="1589781740288">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1848" height="265" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1588221286797" />
-    <state width="1848" height="265" key="GridCell.Tab.0.center" timestamp="1588221286796">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1921" height="143" key="GridCell.Tab.0.bottom/1920.0.1280.693/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1589781740288" />
+    <state width="1814" height="142" key="GridCell.Tab.0.bottom/1920.0.1280.693/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589775559152" />
+    <state width="1921" height="143" key="GridCell.Tab.0.center" timestamp="1589781740288">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1848" height="265" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1588221286796" />
-    <state width="1848" height="265" key="GridCell.Tab.0.left" timestamp="1588221286796">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1921" height="143" key="GridCell.Tab.0.center/1920.0.1280.693/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1589781740288" />
+    <state width="1814" height="142" key="GridCell.Tab.0.center/1920.0.1280.693/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589775559152" />
+    <state width="1921" height="143" key="GridCell.Tab.0.left" timestamp="1589781740288">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1848" height="265" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1588221286796" />
-    <state width="1848" height="265" key="GridCell.Tab.0.right" timestamp="1588221286797">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1921" height="143" key="GridCell.Tab.0.left/1920.0.1280.693/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1589781740288" />
+    <state width="1814" height="142" key="GridCell.Tab.0.left/1920.0.1280.693/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589775559152" />
+    <state width="1921" height="143" key="GridCell.Tab.0.right" timestamp="1589781740288">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1848" height="265" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1588221286797" />
+    <state width="1921" height="143" key="GridCell.Tab.0.right/1920.0.1280.693/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1589781740288" />
+    <state width="1814" height="142" key="GridCell.Tab.0.right/1920.0.1280.693/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589775559152" />
+    <state width="1845" height="329" key="GridCell.Tab.1.bottom" timestamp="1589138480927">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="329" key="GridCell.Tab.1.bottom/1920.0.1280.693/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1589138480927" />
+    <state width="1845" height="329" key="GridCell.Tab.1.center" timestamp="1589138480927">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="329" key="GridCell.Tab.1.center/1920.0.1280.693/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1589138480927" />
+    <state width="1845" height="329" key="GridCell.Tab.1.left" timestamp="1589138480927">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="329" key="GridCell.Tab.1.left/1920.0.1280.693/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1589138480927" />
+    <state width="1845" height="329" key="GridCell.Tab.1.right" timestamp="1589138480927">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="329" key="GridCell.Tab.1.right/1920.0.1280.693/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1589138480927" />
+    <state x="-1603" y="0" key="SettingsEditor" timestamp="1588452889257">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1603" y="0" key="SettingsEditor/1920.0.1280.693/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1588452889257" />
+    <state x="-1342" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1589776090073">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1342" y="5" width="840" height="1034" key="search.everywhere.popup/1920.0.1280.693/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1589776090073" />
+    <state x="578" y="5" width="840" height="1034" key="search.everywhere.popup/1920.0.1280.693/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589661940521" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Repl_Practices/Print_n_Times_Loop.java</url>
+          <line>4</line>
+          <properties class="Repl_Practices.Print_n_Times_Loop" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
